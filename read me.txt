@@ -1,0 +1,8 @@
+#创建环境
+conda create -n paper_process python=3.10 -y
+#安装相关库
+pip install -r requirements.txt
+
+my_papers 目标论文
+sorce_papers 待筛选论文
+output_papers 筛选后结果

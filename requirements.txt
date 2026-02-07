@@ -1,0 +1,16 @@
+# --- 核心：LLM 与 AI ---
+google-generativeai>=0.3.2   # Google Gemini API 官方库
+openai>=1.0.0                # OpenAI 库
+
+# --- 核心：PDF 处理 ---
+pymupdf>=1.23.0
+
+# --- 核心：学术数据与下载 ---
+semanticscholar>=0.6.0
+scidownl>=1.0.0
+
+# --- 辅助：字符串与工具 ---
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+requests>=2.31.0
+tqdm>=4.66.0
